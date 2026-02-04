@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Sujan Das <dsujan2007@gmail.com>"]
 
 [deps]
-Dates = "ade2ca69-8e85-5c27-be23-13f282307e16"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
 JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
 
